@@ -1,1 +1,1 @@
-# Detec-o-de-EPIs-com-YOLOv8
+# Detecção de EPIs com YOLOv8
