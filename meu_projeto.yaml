@@ -1,0 +1,7 @@
+path: /content/dataset  # caminho dentro do Colab
+train: train/images
+val: val/images
+
+names:
+  0: com_capacete
+  1: sem_capacete
